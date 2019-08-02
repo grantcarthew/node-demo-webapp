@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/grantcarthew/node-demo-webapp#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mustache-express": "^1.2.8"
   }
 }
