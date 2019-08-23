@@ -30,6 +30,19 @@ $ docker images -a
 # Remove images
 $ docker rmi <image tag>
 
+# Remove all images
+$ docker system prune -a
+
+```
+
+### Push to Docker Hub
+
+```bash
+# Tag the images with your Docker Hub repository
+$ docker tag rooblue/demowebapp grantcarthew/rooblue
+
+# Push the image to Docker Hub
+$ docker push grantcarthew/rooblue
 ```
 
 ### Pushing to AWS

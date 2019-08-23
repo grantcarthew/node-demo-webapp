@@ -1,6 +1,6 @@
-# install latest node
+# install latest node on Alpine linux
 # https://hub.docker.com/_/node/
-FROM node:latest
+FROM node:current-alpine
 
 # create and set app directory
 RUN mkdir -p /usr/src/app/
