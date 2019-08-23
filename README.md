@@ -1,5 +1,12 @@
-# node-demo-webapp
+# Node Demonstration Web Application
+
 A simple Node.js demonstration web application.
+
+## Details
+
+* Runs on Node.js with Express.js.
+* Exposed though port 3000.
+* Images downloaded from Azure Blob Storage.
 
 ## Docker
 
