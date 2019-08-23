@@ -45,7 +45,7 @@ $ docker tag rooblue/demowebapp grantcarthew/rooblue
 $ docker push grantcarthew/rooblue
 ```
 
-### Pushing to AWS
+### Push to AWS
 
 ```shell
 
